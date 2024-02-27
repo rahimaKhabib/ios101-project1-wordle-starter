@@ -18,7 +18,9 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-[Guide]](https://youtube.com/shorts/vnw4L1pbDLs?feature=share) .
+
+[![Wordle App Walkthrough](https://img.youtube.com/vi/vnw4L1pbDLs/0.jpg)](https://youtube.com/shorts/vnw4L1pbDLs?feature=share)
+
 
 
 ## Notes
